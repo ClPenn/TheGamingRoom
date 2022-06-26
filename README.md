@@ -1,1 +1,1 @@
-# TheGamingRoom
+The new client The Gaming Room has hired CTS to create a web-based game called Draw it or Lose it.  The game will consist of multiple teams with multiple players.  Each team will have a turn to guess the puzzle while being shown stock images from a library as clues for 30 seconds.  If the current team cannot solve the puzzle by the 30 second make, the other teams will have 15 seconds to guess or solve the puzzle.  Each game will consist of 4 rounds each round lasting one minute a piece.  The team with most points at the end of round 4 wins the game.
